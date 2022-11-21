@@ -1,0 +1,50 @@
+.arriba{
+	background-color: black;
+	font-size: 50px;
+	position: sticky;
+	top: 0;
+	font-family: Times new roman;
+}
+body{
+	background-image: url(fondo.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+#mi-foto{
+	width: 300px;
+	height: auto;
+	right: 0;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	display: flex;
+	width: 20%;
+	display: inline-block;
+	position: 
+}
+#xd {
+	font-size: 20px;
+	width: 70%;
+	display: inline-block;
+	margin-left: 3%;
+	font-family: Calibri;
+}
+.cuerpo, p, ul, li{
+	font-size: 20px;
+	width: 80%;
+	display: inline-block;
+	margin-left: 3%;
+	font-family: Calibri;
+}
+.cuerpo h2{
+	font-size: 30px;
+	display: inline-block;
+	margin-left: 2%;
+	font-family: Times new roman;
+}
+#ws, #TELEGOOD, #fb, #insta{
+	width: 30px;
+}
